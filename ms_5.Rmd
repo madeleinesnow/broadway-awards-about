@@ -1,0 +1,30 @@
+---
+title: "It's A Hit: Tony Award-Winning Broadway Shows"
+author: "Madeleine Snow"
+date: "10/19/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Tony Awards
+
+The Tony Awards, which recognize excellence in live Broadway theatre, are annually nominated and awarded to Broadway shows across several categories, including Best Play and Best Musical. The awards in these categories began in 1948 and 1949, respectively, and are presented by the American Theatre Wing and The Broadway League.
+
+# Broadway Data
+
+The Broadway League, the national trade association for the Broadway industry, publishes data gathered from Broadway shows, including the opening and closing dates for Broadway shows, in the Internet Broadway Database (IBDB). Broadway shows typically perform 8 shows per week, so running length can be calculated between opening and closing dates.
+
+# Sources
+
+[Internet Broadway Database]("https://www.ibdb.com/")
+
+[Wikipedia article: Tony Award for Best Play]("https://en.wikipedia.org/wiki/Tony_Award_for_Best_Musical")
+
+[Wikipedia article: Tony Award for Best Musical]("https://en.wikipedia.org/wiki/Tony_Award_for_Best_Play")
+
+# About
+
+Madeleine Snow is a senior at Harvard College studying Psychology and Theater, Dance & Media.
